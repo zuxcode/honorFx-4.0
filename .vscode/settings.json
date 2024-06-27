@@ -1,0 +1,13 @@
+{
+  "cSpell.words": ["Standardizer", "TIMEFRAMES", "zuxcode"],
+  "files.associations": {
+    "*.mq5": "c",
+    "*.mqh": "c",
+    "honorfx-alphine": "c"
+  },
+  "C_Cpp.errorSquiggles": "disabled",
+  "C_Cpp.default.includePath": [
+    "c:\\Users\\Admin\\AppData\\Roaming\\MetaQuotes\\Terminal\\D0E8209F77C8CF37AD8BF550E51FF075\\MQL5\\Include"
+  ],
+  "C_Cpp.clang_format_style": "file:c:\\Users\\Admin\\.vscode\\extensions\\l-i-v.mql-tools-2.1.0\\files\\.clang-format"
+}
